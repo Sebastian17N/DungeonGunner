@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b9c5eafdd2142409b2865cec775b4a, type: 3}
+  m_Name: PlayerDetails_TheGeneral
+  m_EditorClassIdentifier: 
+  playerCharakterName: ' The General'
+  playerPrefab: {fileID: 242778764394126421, guid: 5560b9d23f3a7dc4297f2f3011eedf26, type: 3}
+  runtimeAnimatorController: {fileID: 9100000, guid: e87ce176a15556c459b355908992b930, type: 2}
+  playerHealthAmonunt: 100
+  startingWeapon: {fileID: 11400000, guid: 78d24c483b64a8746b130e882a04c8e5, type: 2}
+  startingWeaponList:
+  - {fileID: 11400000, guid: e6fccf8a6d5d1554eae5c07575806242, type: 2}
+  - {fileID: 11400000, guid: 78d24c483b64a8746b130e882a04c8e5, type: 2}
+  playerMiniMapIcon: {fileID: 21300000, guid: 709f49100a0267f419aa33d571fb9d25, type: 3}
+  playerHandSprite: {fileID: 21300000, guid: a8c352369ed75924d84743672d1ab512, type: 3}
